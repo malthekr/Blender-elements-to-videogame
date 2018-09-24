@@ -1,0 +1,1 @@
+Tjekker om Cone og Cube rammer hinanden, men der sker kun en ændring når Cone er i positiv z-akse, da der ikke er implementeret andet endnu og at dette blot er en simpel collision detection som nemt kan udvides.
